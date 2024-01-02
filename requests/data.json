@@ -1,6 +1,10 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 {"select_id":null,"data_map":{}}
+=======
+{"select_id":"a6c6846e-fbb2-4f2b-baff-c5f0b56d0006","data_map":{"a6c6846e-fbb2-4f2b-baff-c5f0b56d0006":{"id":"a6c6846e-fbb2-4f2b-baff-c5f0b56d0006","collection_path":null,"rest":{"name":"","desc":"","request":{"method":"GET","base_url":"","params":[],"headers":[],"body":{"base64":"","size":0,"body_str":"","body_file":"","body_type":"NONE","body_raw_type":"JSON","body_form_data":[],"body_xxx_form":[]},"auth":{"auth_type":"InheritAuthFromParent","basic_username":"","basic_password":"","bearer_token":""}},"response":{"body":{"base64":"","size":0,"body_str":"","body_file":"","body_type":"NONE","body_raw_type":"JSON","body_form_data":[],"body_xxx_form":[]},"headers":[],"url":"","ok":false,"status":0,"status_text":""},"status":"None","elapsed_time":null}}}}
+>>>>>>> Stashed changes
 =======
 {"select_id":"a6c6846e-fbb2-4f2b-baff-c5f0b56d0006","data_map":{"a6c6846e-fbb2-4f2b-baff-c5f0b56d0006":{"id":"a6c6846e-fbb2-4f2b-baff-c5f0b56d0006","collection_path":null,"rest":{"name":"","desc":"","request":{"method":"GET","base_url":"","params":[],"headers":[],"body":{"base64":"","size":0,"body_str":"","body_file":"","body_type":"NONE","body_raw_type":"JSON","body_form_data":[],"body_xxx_form":[]},"auth":{"auth_type":"InheritAuthFromParent","basic_username":"","basic_password":"","bearer_token":""}},"response":{"body":{"base64":"","size":0,"body_str":"","body_file":"","body_type":"NONE","body_raw_type":"JSON","body_form_data":[],"body_xxx_form":[]},"headers":[],"url":"","ok":false,"status":0,"status_text":""},"status":"None","elapsed_time":null}}}}
 >>>>>>> Stashed changes
