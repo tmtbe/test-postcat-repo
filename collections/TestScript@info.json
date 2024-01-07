@@ -1,1 +1,1 @@
-{"envs":{"items":[]},"pre_request_script":"let shared_item = {\"key\":\"value\"}\nposter.set_shared(\"shared_key\",shared_item);","test_script":""}
+{"envs":{"items":[]},"pre_request_script":"let shared_item = {\"key\":\"value\"}\npostcat.set_shared(\"shared_key\",shared_item);","test_script":""}
