@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 {"select_id":"930e7993-dbe5-48a3-abfe-f192aa06917c","data_map":{"TestREST/absolute_redirect":{"id":"TestREST/absolute_redirect","collection_path":"TestREST","rest":{"name":"absolute_redirect","desc":"","request":{"method":"GET","base_url":"https://httpbin.org/absolute-redirect/2","params":[],"headers":[],"body":{"base64":"","size":0,"body_str":"","body_file":"","body_type":"NONE","body_raw_type":"JSON","body_form_data":[],"body_xxx_form":[]},"auth":{"auth_type":"InheritAuthFromParent","basic_username":"","basic_password":"","bearer_token":""}},"status":"Ready","pre_request_script":"","test_script":""},"test_result":{"status":"None","open_test":null,"append":[],"test_info_list":[]},"modify_baseline":"Request:[Method:GET BaseUrl:https://httpbin.org/absolute-redirect/2 Params:[] Headers:[] Body:BodyStr: BodyFile: BodyType:NONE BodyRawType:JSON FormData:[] XXXForm:[] Auth:Type:InheritAuthFromParent BasicUsername: BasicPassword: BearerToken:] TestScript:[] PreRequestScript:[]"}}}
+=======
+{"select_id":null,"data_map":{}}
+>>>>>>> Stashed changes
