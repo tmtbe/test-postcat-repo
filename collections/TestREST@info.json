@@ -1,1 +1,1 @@
-{"envs":{"items":[{"enable":true,"key":"test","value":"test","value_type":"String"}]},"script":"\nconsole.log(\"info1\",\"info2\");"}
+{"envs":{"items":[{"enable":true,"key":"test","value":"test","value_type":"String"}]}}

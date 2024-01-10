@@ -1,1 +1,1 @@
-{"name":"TestScript","parent_path":".","desc":"","auth":{"auth_type":"NoAuth","basic_username":"","basic_password":"","bearer_token":""},"is_root":true}
+{"desc":"","auth":{"auth_type":"NoAuth","basic_username":"","basic_password":"","bearer_token":""},"is_root":true,"pre_request_script":"postcat.set_shared(\"shared_key\",\"shared_value\");","test_script":"let response = postcat.resp();                                \nconsole.log(response);\npostcat.test(\"Must 200\",function(){\n\tassert(200,response.status);\n});\n                                "}
